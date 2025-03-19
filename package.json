@@ -1,0 +1,13 @@
+{
+    "name": "string-calculator",
+    "version": "1.0.0",
+    "description": "A simple TDD-based string calculator in JavaScript",
+    "main": "src/string_calculator.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
