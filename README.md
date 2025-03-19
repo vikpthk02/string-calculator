@@ -2,7 +2,7 @@
 
 A simple **TDD-based String Calculator** implemented in JavaScript.
 
-## 🚀 Features
+## Features
 - Handles empty input, single, and multiple numbers
 - Supports custom delimiters (e.g., `//;\n1;2`)
 - Handles newline `\n` as a separator
@@ -10,8 +10,8 @@ A simple **TDD-based String Calculator** implemented in JavaScript.
 - Throws exceptions for negative numbers
 - Supports multiple delimiters of any length
 
-## 🛠 Installation
+## Installation
 ```sh
-git clone https://github.com/yourusername/string-calculator.git
+git clone https://github.com/vikpthk02/string-calculator.git
 cd string-calculator
 npm install
